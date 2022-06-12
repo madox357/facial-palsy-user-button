@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: FacialPalsy Elementor Widgets
- * Plugin URI: https://github.com/madox357/facial-palsy-module
+ * Plugin URI: https://github.com/madox357/facial-palsy-user-button
  * Author: Bijaya Limbu
- * Author URI: https://github.com/madox357facial-palsy-module
+ * Author URI: https://github.com/madox357/facial-palsy-user-button
  * Description: Elementor Widgets from Bijaya Limbu for the purpose of helping user.
  * Version: 0.1.0
  * License: 0.1.0
